@@ -1,0 +1,17 @@
+{
+  "name": "knockout_demo",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "tomato"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/tomatono-git/Knockout_demo",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
